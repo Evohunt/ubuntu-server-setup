@@ -272,7 +272,7 @@ To further test this, open Plex on a device that is not connected on the local n
     - Authentication: here you can change the password so you won't need a temporary one anymore
     - Enable Bypass authentication for clients on localhost
   - Advanced Tab
-    - .torrent file size limit: 100
+    - .torrent file size limit: 100 (this can be customized to your prefferences)
 
 - Restart the docker image and we are done.
 ## 8. Sonarr & Radarr Setup + Configuration
